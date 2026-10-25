@@ -1,0 +1,7 @@
+customer_id,customer_name,email,mobile,city,registration_date,customer_type
+C1001,Aarav Sharma,aarav.sharma@gmail.com,9876543210,Noida,2024-01-15,Regular
+C1001,Duplicate Aarav,aarav.dup@gmail.com,9876543210,Noida,2024-01-15,Regular
+,Missing ID Customer,missing.id@gmail.com,9876543251,Delhi,2023-01-01,Regular
+C1042,,missing.name@gmail.com,9876543252,Mumbai,2023-01-01,Regular
+C1043,Bad Email Guy,bademail-at-gmail.com,9876543253,Kolkata,2023-01-01,Regular
+C1044,Invalid Email 2,plainaddress,9876543254,Chennai,2023-01-01,Premium

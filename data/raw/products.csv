@@ -1,0 +1,51 @@
+product_id,product_name,category,brand,unit_price,supplier_id,status
+P101,Dairy Milk,Chocolate,Cadbury,50,SUP01,Active
+P102,KitKat,Chocolate,Nestle,40,SUP01,Active
+P103,Oreo Biscuits,Snacks,Mondelez,30,SUP02,Active
+P104,Coca Cola 2L,Beverages,Coca Cola,90,SUP03,Active
+P105,Pepsi 2L,Beverages,PepsiCo,85,SUP03,Active
+P106,Tropicana Orange,Beverages,PepsiCo,110,SUP03,Active
+P107,Lays Classic,Snacks,Lays,20,SUP02,Active
+P108,Kurkure Masala,Snacks,Kurkure,20,SUP02,Active
+P109,Amul Butter 500g,Dairy,Amul,275,SUP04,Active
+P110,Amul Milk 1L,Dairy,Amul,66,SUP04,Active
+P111,Paneer 200g,Dairy,Amul,95,SUP04,Active
+P112,Basmati Rice 5kg,Grains,Fortune,650,SUP05,Active
+P113,Wheat Atta 10kg,Grains,Aashirvaad,420,SUP05,Active
+P114,Sunflower Oil 1L,Oils,Fortune,145,SUP05,Active
+P115,Olive Oil 1L,Oils,Borges,850,SUP05,Active
+P116,Toor Dal 1kg,Grains,Tata Sampann,160,SUP05,Active
+P117,Surf Excel 1kg,Detergents,HUL,210,SUP06,Active
+P118,Ariel Powder 1kg,Detergents,P&G,225,SUP06,Active
+P119,Vim Dishwash Gel,Cleaning,HUL,105,SUP06,Active
+P120,Dettol Soap 125g,Personal Care,Reckitt,60,SUP07,Active
+P121,Dove Shampoo,Personal Care,HUL,280,SUP07,Active
+P122,Colgate Toothpaste,Personal Care,Colgate,120,SUP07,Active
+P123,Sensodyne Toothpaste,Personal Care,Haleon,190,SUP07,Active
+P124,Nivea Body Lotion,Personal Care,Nivea,350,SUP07,Active
+P125,Nescafe Classic,Beverages,Nestle,320,SUP01,Active
+P126,Red Label Tea,Beverages,HUL,240,SUP06,Active
+P127,Maggi Noodles 12p,Snacks,Nestle,168,SUP01,Active
+P128,Knorr Tomato Soup,Snacks,HUL,55,SUP06,Active
+P129,Kelloggs Corn Flakes,Breakfast,Kelloggs,310,SUP08,Active
+P130,Quaker Oats 1kg,Breakfast,PepsiCo,190,SUP03,Active
+P131,Haldiram Bhujia,Snacks,Haldiram,115,SUP02,Active
+P132,Real Juice Apple,Beverages,Dabur,125,SUP09,Active
+P133,Chyawanprash 1kg,Health,Dabur,390,SUP09,Active
+P134,Honey 500g,Health,Dabur,230,SUP09,Active
+P135,Almonds 500g,Dry Fruits,Happilo,550,SUP10,Active
+P136,Cashews 500g,Dry Fruits,Happilo,600,SUP10,Active
+P137,Raisins 500g,Dry Fruits,Happilo,220,SUP10,Active
+P138,Dark Chocolate,Chocolate,Amul,120,SUP04,Active
+P139,Snickers Bar,Chocolate,Mars,50,SUP11,Active
+P140,M&Ms Pack,Chocolate,Mars,90,SUP11,Active
+P101,Duplicate Milk,Chocolate,Cadbury,50,SUP01,Active
+,Missing ID Product,Beverages,Generic,100,SUP99,Active
+P142,,Snacks,Generic,50,SUP99,Active
+P143,Bad Price Zero,Grains,Generic,0,SUP99,Active
+P144,Bad Price Negative,Oils,Generic,-150,SUP99,Active
+P145,Good Biscuit,Snacks,Parle,25,SUP02,Active
+P146,Good Soda,Beverages,Sprite,60,SUP03,Active
+P147,Good Chips,Snacks,Bingo,30,SUP02,Active
+P148,Good Soap,Personal Care,Lux,45,SUP07,Active
+P149,Good Detergent,Cleaning,Tide,180,SUP06,Active

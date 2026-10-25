@@ -1,0 +1,51 @@
+store_id,store_name,city,state,store_manager,opening_date,status
+S101,Reliance Fresh,Noida,Uttar Pradesh,Amit Sharma,2024-01-10,Active
+S102,DMart Superstore,Mumbai,Maharashtra,Priya Verma,2023-05-15,Active
+S103,Big Bazaar,Bengaluru,Karnataka,Rohan Mehta,2022-11-20,Active
+S104,More Mega Store,Hyderabad,Telangana,Suresh Kumar,2023-08-12,Active
+S105,Spencer Retail,Kolkata,West Bengal,Ananya Roy,2021-03-05,Active
+S106,Nature Basket,Delhi,Delhi,Vikram Malhotra,2023-01-18,Active
+S107,Star Bazaar,Pune,Maharashtra,Neha Patel,2022-06-30,Active
+S108,Lulu Hypermarket,Kochi,Kerala,Rahul Nair,2023-12-01,Active
+S109,Easyday Club,Chandigarh,Punjab,Gurpreet Singh,2022-04-14,Active
+S110,Vishal Mega Mart,Jaipur,Rajasthan,Ramesh Sharma,2021-09-09,Active
+S111,Smart Bazaar,Ahmedabad,Gujarat,Ketan Shah,2023-07-22,Active
+S112,Heritage Fresh,Chennai,Tamil Nadu,Venkatesh Iyer,2022-02-17,Active
+S113,Spar Hypermarket,Coimbatore,Tamil Nadu,Karthik Raja,2023-03-11,Active
+S114,Ratnadeep,Visakhapatnam,Andhra Pradesh,Srinivas Rao,2021-12-05,Active
+S115,Reliance Smart,Indore,Madhya Pradesh,Pooja Joshi,2023-09-19,Active
+S116,Metro Cash & Carry,Lucknow,Uttar Pradesh,Alok Tiwari,2022-10-10,Active
+S117,Osia Hyper retail,Surat,Gujarat,Jignesh Patel,2023-04-01,Active
+S118,V-Mart,Patna,Bihar,Manoj Kumar,2021-08-15,Active
+S119,7-Eleven,Gurugram,Haryana,Deepak Hooda,2023-11-11,Active
+S120,Blinkit Hub Central,Noida,Uttar Pradesh,Saurabh Saxena,2024-02-01,Active
+S121,Zepto Dark Store,Mumbai,Maharashtra,Karan Johar,2024-01-15,Active
+S122,Instamart Store,Bengaluru,Karnataka,Nikhil Kamath,2023-06-18,Active
+S123,Reliance Smart,Bhopal,Madhya Pradesh,Shivraj Singh,2022-05-25,Active
+S124,DMart Express,Nagpur,Maharashtra,Vilash Deshmukh,2023-10-10,Active
+S125,Spencer Mini,Guwahati,Assam,Biren Gogoi,2021-11-11,Active
+S126,Big Mart,Ranchi,Jharkhand,MOHD Imran,2022-07-07,Active
+S127,Super 99,Dehradun,Uttarakhand,Varun Rawat,2023-02-20,Active
+S128,Value Plus,Kanpur,Uttar Pradesh,Abhishek Mishra,2022-01-30,Active
+S129,Daily Needs,Varanasi,Uttar Pradesh,Shivam Pandey,2023-08-08,Active
+S130,Grocer Super,Agra,Uttar Pradesh,Mohit Bansal,2021-04-12,Active
+S131,Fresh Mart,Vadodara,Gujarat,Harsh Solanki,2023-05-05,Active
+S132,City Bazaar,Ludhiana,Punjab,Amanpreet Kaur,2022-09-15,Active
+S133,Town Supermarket,Thane,Maharashtra,Rajesh Shinde,2023-01-25,Active
+S134,Mega Store,Nashik,Maharashtra,Pravin Gadkari,2022-03-30,Active
+S135,Central Mart,Madurai,Tamil Nadu,Senthil Kumar,2021-10-20,Active
+S136,Express Mart,Vijayawada,Andhra Pradesh,Nageswara Rao,2023-04-15,Active
+S137,Apex Retail,Rajkot,Gujarat,Bhavik Jadeja,2022-12-12,Active
+S138,Metro Mart,Jamshedpur,Jharkhand,Ravi Jha,2023-08-01,Active
+S139,Prime Super,Jodhpur,Rajasthan,Gajendra Singh,2022-02-28,Active
+S140,Global Express,Gwalior,Madhya Pradesh,Pradeep Tomar,2021-06-14,Active
+S101,Duplicate Store,Noida,Uttar Pradesh,Amit Sharma,2024-01-10,Active
+,Missing Store ID,Delhi,Delhi,Unknown Manager,2023-01-01,Active
+S142,,Kolkata,West Bengal,No Name Manager,2023-01-01,Active
+S143,No City Store,,Karnataka,Missing City,2023-01-01,Active
+S144,Good Express,Faridabad,Haryana,Sunil Dutt,2023-09-09,Active
+S145,Good Mart,Ghaziabad,Uttar Pradesh,Kapil Dev,2023-10-10,Active
+S146,Good Super,Prayagraj,Uttar Pradesh,Dinesh Karthik,2022-05-05,Active
+S147,Good Basket,Jammu,Jammu and Kashmir,Raina Dutt,2023-11-20,Active
+S148,Good Retail,Shimla,Himachal Pradesh,Anand Sharma,2022-08-08,Active
+S149,Good Mega,Panaji,Goa,Fernandes D,2023-12-12,Active

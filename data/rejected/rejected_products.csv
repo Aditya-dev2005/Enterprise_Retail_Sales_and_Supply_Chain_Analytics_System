@@ -1,0 +1,7 @@
+product_id,product_name,category,brand,unit_price,supplier_id,status
+P101,Dairy Milk,Chocolate,Cadbury,50,SUP01,Active
+P101,Duplicate Milk,Chocolate,Cadbury,50,SUP01,Active
+,Missing ID Product,Beverages,Generic,100,SUP99,Active
+P142,,Snacks,Generic,50,SUP99,Active
+P143,Bad Price Zero,Grains,Generic,0,SUP99,Active
+P144,Bad Price Negative,Oils,Generic,-150,SUP99,Active

@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs & OS/editor junk
+logs/*
+!logs/.gitkeep
+*.log
+.DS_Store
+.vscode/
+~$*
+*.save

@@ -1,0 +1,51 @@
+customer_id,customer_name,email,mobile,city,registration_date,customer_type
+C1001,Aarav Sharma,aarav.sharma@gmail.com,9876543210,Noida,2024-01-15,Regular
+C1002,Diya Patel,diya.patel@yahoo.com,9876543211,Mumbai,2023-11-20,Premium
+C1003,Vivaan Gupta,vivaan.g@outlook.com,9876543212,Bengaluru,2024-02-01,Corporate
+C1004,Ananya Reddy,ananya.r@gmail.com,9876543213,Hyderabad,2023-09-10,Regular
+C1005,Kabir Singh,kabir.s@gmail.com,9876543214,Delhi,2023-12-05,Premium
+C1006,Sanya Malhotra,sanya.m@gmail.com,9876543215,Pune,2024-01-22,Regular
+C1007,Rohan Joshi,rohan.j@yahoo.com,9876543216,Kolkata,2023-08-18,Corporate
+C1008,Isha Nair,isha.n@gmail.com,9876543217,Kochi,2023-10-30,Regular
+C1009,Aditya Verma,aditya.v@hotmail.com,9876543218,Jaipur,2024-02-10,Premium
+C1010,Meera Shah,meera.s@gmail.com,9876543219,Ahmedabad,2023-07-25,Regular
+C1011,Aryan Khan,aryan.k@gmail.com,9876543220,Mumbai,2023-06-12,Corporate
+C1012,Tara Sutaria,tara.s@yahoo.com,9876543221,Chandigarh,2023-05-19,Regular
+C1013,Siddharth Roy,siddharth.r@gmail.com,9876543222,Lucknow,2024-01-05,Premium
+C1014,Rhea Kapoor,rhea.k@outlook.com,9876543223,Gurugram,2023-12-15,Corporate
+C1015,Varun Dhawan,varun.d@gmail.com,9876543224,Indore,2023-11-01,Regular
+C1016,Kriti Sanon,kriti.s@gmail.com,9876543225,Delhi,2024-02-14,Premium
+C1017,Ayushmann Khurrana,ayush.k@yahoo.com,9876543226,Chandigarh,2023-09-09,Corporate
+C1018,Kiara Advani,kiara.a@gmail.com,9876543227,Mumbai,2023-10-12,Regular
+C1019,Kartik Aaryan,kartik.a@hotmail.com,9876543228,Gwalior,2023-08-05,Regular
+C1020,Janhavi Kapoor,janhavi.k@gmail.com,9876543229,Chennai,2024-01-20,Premium
+C1021,Vicky Kaushal,vicky.k@gmail.com,9876543230,Mumbai,2023-07-07,Corporate
+C1022,Sara Ali,sara.a@yahoo.com,9876543231,Bhopal,2023-12-28,Regular
+C1023,Tiger Shroff,tiger.s@gmail.com,9876543232,Agra,2024-02-05,Regular
+C1024,Shraddha Kapoor,shraddha.k@outlook.com,9876543233,Pune,2023-11-11,Premium
+C1025,Ranbir Kapoor,ranbir.k@gmail.com,9876543234,Mumbai,2023-06-30,Corporate
+C1026,Alia Bhatt,alia.b@gmail.com,9876543235,Mumbai,2023-05-15,Premium
+C1027,Ranveer Singh,ranveer.s@yahoo.com,9876543236,Bengaluru,2023-10-10,Corporate
+C1028,Deepika Padukone,deepika.p@gmail.com,9876543237,Bengaluru,2023-09-25,Premium
+C1029,Shah Rukh,srk@rediffmail.com,9876543238,Kolkata,2023-08-15,Corporate
+C1030,Salman Khan,beingsalman@gmail.com,9876543239,Panaji,2023-07-01,Regular
+C1031,Aamir Khan,aamir.k@gmail.com,9876543240,Patna,2023-12-10,Corporate
+C1032,Akshay Kumar,akshay.k@yahoo.com,9876543241,Delhi,2024-01-08,Regular
+C1033,Ajay Devgn,ajay.d@gmail.com,9876543242,Jaipur,2023-11-19,Regular
+C1034,Hrithik Roshan,hrithik.r@outlook.com,9876543243,Dehradun,2023-10-05,Premium
+C1035,Prabhas Raju,prabhas.r@gmail.com,9876543244,Visakhapatnam,2023-09-01,Corporate
+C1036,Allu Arjun,allu.a@yahoo.com,9876543245,Hyderabad,2024-02-02,Premium
+C1037,Ram Charan,ram.c@gmail.com,9876543246,Vijayawada,2023-08-20,Corporate
+C1038,Mahesh Babu,mahesh.b@gmail.com,9876543247,Hyderabad,2023-07-14,Premium
+C1039,NTR Junior,jr.ntr@gmail.com,9876543248,Hyderabad,2023-12-01,Regular
+C1040,Yash Gowda,yash.g@outlook.com,9876543249,Mysuru,2024-01-18,Corporate
+C1001,Duplicate Aarav,aarav.dup@gmail.com,9876543210,Noida,2024-01-15,Regular
+,Missing ID Customer,missing.id@gmail.com,9876543251,Delhi,2023-01-01,Regular
+C1042,,missing.name@gmail.com,9876543252,Mumbai,2023-01-01,Regular
+C1043,Bad Email Guy,bademail-at-gmail.com,9876543253,Kolkata,2023-01-01,Regular
+C1044,Invalid Email 2,plainaddress,9876543254,Chennai,2023-01-01,Premium
+C1045,Good Customer 1,good1@gmail.com,9876543255,Surat,2024-01-01,Regular
+C1046,Good Customer 2,good2@yahoo.com,9876543256,Vadodara,2024-01-02,Premium
+C1047,Good Customer 3,good3@outlook.com,9876543257,Nagpur,2024-01-03,Corporate
+C1048,Good Customer 4,good4@gmail.com,9876543258,Nashik,2024-01-04,Regular
+C1049,Good Customer 5,good5@gmail.com,9876543259,Thane,2024-01-05,Premium

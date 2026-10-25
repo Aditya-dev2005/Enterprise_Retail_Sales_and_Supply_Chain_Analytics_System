@@ -1,0 +1,6 @@
+store_id,store_name,city,state,store_manager,opening_date,status
+S101,Reliance Fresh,Noida,Uttar Pradesh,Amit Sharma,2024-01-10,Active
+S101,Duplicate Store,Noida,Uttar Pradesh,Amit Sharma,2024-01-10,Active
+,Missing Store ID,Delhi,Delhi,Unknown Manager,2023-01-01,Active
+S142,,Kolkata,West Bengal,No Name Manager,2023-01-01,Active
+S143,No City Store,,Karnataka,Missing City,2023-01-01,Active
