@@ -92,7 +92,7 @@ free [OpenRouter API key](https://openrouter.ai/keys) for the AI endpoint.
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/Enterprise-Retail-Platform.git
+git clone https://github.com/Aditya-dev2005/Enterprise_Retail_Sales_and_Supply_Chain_Analytics_System.git
 cd Enterprise-Retail-Platform
 
 # 2. Virtual environment + dependencies
